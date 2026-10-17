@@ -8,4 +8,4 @@ function validOtp(otp) {
     return false;
 }
 
-console.log(validOtp("ph-53534"));
+console.log(validOtp("ph-12343"));
